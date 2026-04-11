@@ -6,7 +6,7 @@ My work involves designing clean architectures, integrating external services, a
 
 ---
 
-## 🔧 Core Expertise
+## Core Expertise
 - **PHP / Laravel**  
 - **REST API Architecture**  
 - **Payment Processing (Stripe, Mastercard APIs)**  
@@ -20,24 +20,22 @@ My work involves designing clean architectures, integrating external services, a
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### **Stripe Payment API Boilerplate (Laravel)**
 A clean, production-ready API structure for secure payment flows.  
 Includes charge creation, cancellation, webhooks, validation layers and logging.  
-*Repo coming soon.*
+
+### **Python Ops Tools**
+A small collection of operational scripts for backups, automation and routine system tasks. 
 
 ### **OpenAI Assistant API (Laravel)**
 Backend service integrating OpenAI models with clean architecture, rate-limits, logs and endpoints for assistant interactions.  
 *Repo coming soon.*
 
-### **Python Ops Tools**
-A small collection of operational scripts for backups, automation and routine system tasks.  
-*Repo coming soon.*
-
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" />
@@ -50,7 +48,7 @@ A small collection of operational scripts for backups, automation and routine sy
 
 ---
 
-## 📫 Contact  
+## Contact  
 If you'd like to discuss backend work, API integrations or fintech projects:
 
 - **LinkedIn:** https://www.linkedin.com/in/felicianopj/  
