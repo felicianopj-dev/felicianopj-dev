@@ -1,57 +1,58 @@
-### Backend Developer (PHP/Laravel) — APIs, Payments & Fintech Integrations
+### Senior Backend Engineer (PHP/Laravel) — Fintech, Payments & Risk Infrastructure
 
-I'm a backend developer with 10+ years of experience building secure and reliable APIs in PHP/Laravel, with a strong focus on fintech systems, payment workflows, fraud prevention and credit-risk integrations.
+10+ years building backend systems for fintech products — payment processing, fraud prevention and credit-risk integrations. Sole technical decision-maker for backend architecture on systems processing **USD 1M+ in monthly transaction volume**, with full ownership from design to production.
 
-My work involves designing clean architectures, integrating external services, and building high-sensitivity systems that require strong validation, encryption, logging and predictable behavior.
+I work where correctness and security can't be negotiated: payment flows, authentication, fraud checks and credit decisioning — systems where a silent bug means real money lost, not just a broken feature.
 
 ---
 
-## Core Expertise
-- **PHP / Laravel**  
-- **REST API Architecture**  
-- **Payment Processing (Stripe, Mastercard APIs)**  
-- **Fraud Detection (3DS / Cardinal Commerce)**  
-- **Credit Score Integrations (Experian)**  
-- **Authentication & Authorization**  
-- **Webhooks & External Integrations**  
-- **Python Automations (cron, backups)**  
-- **Vue.js (supporting backend features)**  
-- **Queues, Caching, Performance Optimization**
+## Payments & Fintech Infrastructure
+- **Mastercard Payments API** — production integrations processing $1M+/month
+- **3DS Authentication / CardinalCommerce** — fraud-prevention flows at the same transaction volume
+- **Experian Credit Score** — automated credit decisioning across multiple products
+- **Stripe** — Checkout, billing, webhooks, subscription lifecycle
+
+## Core Backend Skills
+- **PHP / Laravel** — REST APIs, queues, caching, performance at scale
+- **Python** — automation, monitoring, operational tooling
+- **Vue.js** — supporting backend-driven frontends
+- **MySQL / PostgreSQL / Redis**
+- **Docker, Linux, AWS (ECS), Git**
+- AI-assisted development: GitHub Copilot, ChatGPT, agentic tools (Claude Code, Codex)
 
 ---
 
 ## Featured Projects
 
-### **Stripe Payment API Boilerplate (Laravel)**
-A clean, production-ready API structure for secure payment flows.  
-Includes charge creation, cancellation, webhooks, validation layers and logging.  
+### **[Laravel Stripe API](https://github.com/felicianopj-dev/laravel-stripe-api)**
+Production-oriented Stripe integration: Checkout, webhook handling, billing endpoints, secure payment flow.
 
-### **Python Ops Tools**
-A small collection of operational scripts for backups, automation and routine system tasks. 
+### **[Laravel SaaS Membership](https://github.com/felicianopj-dev/laravel-saas-membership)**
+SaaS membership platform with Laravel + Vue 3 — subscription billing, role-based access, Stripe webhooks via Cashier.
 
-### **OpenAI Assistant API (Laravel)**
-Backend service integrating OpenAI models with clean architecture, rate-limits, logs and endpoints for assistant interactions.  
-*Repo coming soon.*
+### **[Python Ops Tools](https://github.com/felicianopj-dev/python-ops-tools)**
+Operational reliability tooling for database backups and API health monitoring — the kind of automation that keeps production fintech systems observable and recoverable.
 
 ---
 
-## Tech Stack  
+## Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=flat" />
 </p>
 
 ---
 
-## Contact  
-If you'd like to discuss backend work, API integrations or fintech projects:
+## Open to
+Remote roles and contracts in **fintech, payments, and risk infrastructure** — PHP/Laravel primary, Python for automation/ops. Available full-time as a contractor.
 
-- **LinkedIn:** https://www.linkedin.com/in/felicianopj/  
-- **Email:** felicianopj@protonmail.com  
-
----
+## Contact
+- **LinkedIn:** https://www.linkedin.com/in/felicianopj/
+- **Email:** felicianopj@protonmail.com
